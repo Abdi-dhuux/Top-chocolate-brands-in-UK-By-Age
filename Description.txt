@@ -1,0 +1,10 @@
+Project Title: Top chocolate brands in UK By Age
+
+Tag: #MakeoverMondayCoursera, 2018 Week 13
+
+
+Description: 
+In this project, I meticulously analyzed and visualized the preferences of individuals across
+various age groups in the UK, highlighting the top chocolate brands among those aged 18-24, 35-44, and 65+.
+Through insightful data visualization, I provided a comprehensive overview of consumer trends, 
+shedding light on the distinct choices within each age bracket.
